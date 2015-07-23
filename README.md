@@ -1,0 +1,1 @@
+Simple training angular project. 
